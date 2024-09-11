@@ -1,0 +1,4 @@
+##[pylyzer] succeed c:\users\awsom\desktop\programms\leet\is_subsequence.py 1725000473 382
+.is_subsequence: |Type_617 <: Structural({.__len__ = (self: Never) -> Nat; .__getitem__ = (self: Type_617, Type_624) -> E}), Type_617 <: Structural({.__len__ = (self: Never) -> Nat; .__getitem__ = (self: Obj, Type_624) -> E}), E: Type, Type_624 :> {0}|(str1: Type_617, str2: Structural({.__len__ = (self: Never) -> Nat; .__getitem__ = (self: Never, Obj) -> E})) -> Bool
+
+

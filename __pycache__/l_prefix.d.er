@@ -1,0 +1,5 @@
+##[pylyzer] failed c:\users\awsom\desktop\programms\leet\l_prefix.py 1725606313 386
+.l_prefix: Never
+.s: List!({"flower", "flow", "flight"}, 3)
+.short: Ord and Iterable(Never) and Indexable(Obj, Never)
+
